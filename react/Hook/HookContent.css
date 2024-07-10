@@ -1,0 +1,17 @@
+.botao{
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+.light{
+  background-color: white;
+  color: black;
+
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
